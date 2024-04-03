@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @efsairgit
+- 👀 I’m interested in artificial intelligence and video games.
+- 🌱 I’m currently learning python.
+- 📫 Studiyng in the computer programming department at Istanbul University.
+- 📫 How to reach me: www.linkedin.com/in/efsa-irgit-8709451b6
